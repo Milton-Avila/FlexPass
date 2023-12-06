@@ -1,0 +1,35 @@
+{
+    "academia1": {
+        "nome": "PlexGym",
+        "CNPJ": "00.623.904/0001-73",
+        "endereco": "Rua Curitiba, Qd 21, Lt 3",
+        "coord": "-16.363467562888086, -49.49335858992551",
+        "lmtUsuarios": 15,
+        "status": "Aberto",
+        "horarioAbr": "07:00",
+        "horarioFch": "23:00",
+        "senha": 123123
+    },
+    "academia2": {
+        "nome": "LugarFit",
+        "CNPJ": "00.000.000/0001-91",
+        "endereco": "Rua São João, Qd 2, Lt 32",
+        "coord": "-16.36375804967608, -49.48376158882897",
+        "lmtUsuarios": 10,
+        "status": "Aberto",
+        "horarioAbr": "08:00",
+        "horarioFch": "22:00",
+        "senha": 123456
+    },
+    "academia3": {
+        "nome": "CorpoTop",
+        "CNPJ": "00.000.352/6684-91",
+        "endereco": "Rua Eduardo, Qd 12, Lt 5",
+        "coord": "-16.36387725370431, -49.50210767458279",
+        "lmtUsuarios": 10,
+        "status": "Aberto",
+        "horarioAbr": "07:00",
+        "horarioFch": "22:00",
+        "senha": 987654
+    }
+}
